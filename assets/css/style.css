@@ -1,0 +1,95 @@
+
+#nav-header {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #ffffff;
+	text-align: center;
+	background-color: #0000ff;	
+}
+nav ul a {
+	font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+nav ul a:hover {
+	background-color:#f0f0f0;
+	border-radius: 4px;
+}
+/*-----End Nav Bar-----*/
+
+/*------Section-------*/
+.sec-div {
+	background-color:#dddddd;
+	height: 600px;
+}
+
+.main-div {
+	height: 500px;
+	background-color:#ffff99;
+	overflow: auto;
+}
+.header {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #ff6347;
+}
+.myHr {
+	color: #dddddd;
+	border: solid 2px;
+	width: 1090px;
+}
+
+/*About Me*/
+#about-me-imag {
+	width: 255px;
+	height: 290px;
+	float: left;
+}
+#about-me-para {
+	font-family:  'Georgia', Times, Times New Roman, serif;
+	line-height: 40px;
+	font-size: 20px;
+	text-align: justify;
+}
+/*End About Me*/
+
+/*Portfolio*/
+.portfolio-imag {
+	width: 350px;
+	height: 350px;
+}
+.imag-title {
+	background-color: ;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	font-size: 22px;
+	color: #0000ff;
+	position: relative;
+	bottom: 80px;
+	width: 350px;
+	height: 65px;
+
+}
+.imag-title:hover {
+	background-color: #ff0000;
+}
+/*End Portfolio*/
+
+/*Contact*/
+
+/*End Contact*/
+
+/*------End Section-----*/
+
+/*-----Footer-----*/
+#foot-div {
+	background-color:#0000ff; 
+	border-top: 8px solid #000000;
+}
+#foot-para {
+    color: #ffffff;
+}
+/*------End Footer-------*/
+
+
